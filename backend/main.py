@@ -29,6 +29,7 @@ app.add_middleware(
 
         # Existing deployment
         "https://biodiversity-intelligence-ai.vercel.app",
+        "https://ecosense-ai-delta.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
