@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+chroma_db/
+data/chroma/
+node_modules/
+dist/
+.vite/
+.env.*
+!.env.example

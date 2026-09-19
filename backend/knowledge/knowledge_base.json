@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Conservation Agriculture",
+    "organization": "FAO",
+    "claim": "Conservation agriculture combines minimum soil disturbance, permanent soil cover and species diversification, supporting soil functions and biodiversity.",
+    "mechanism": "Reduced disturbance, continuous cover and diversification influence organic inputs, habitat, nutrient cycling and water processes.",
+    "metrics": [
+      "soil organic carbon",
+      "soil moisture",
+      "biodiversity",
+      "land use"
+    ],
+    "source_url": "https://www.fao.org/conservation-agriculture",
+    "keywords": "soil cover crop rotation biodiversity carbon moisture monoculture"
+  },
+  {
+    "title": "Soil Organic Cover",
+    "organization": "FAO",
+    "claim": "Cover crops and surface residues can protect soil, add organic matter, improve structure and support biodiversity.",
+    "mechanism": "Vegetative cover reduces exposure and contributes organic inputs while supporting infiltration and biological activity.",
+    "metrics": [
+      "soil organic carbon",
+      "soil moisture",
+      "soil structure",
+      "biodiversity"
+    ],
+    "source_url": "https://www.fao.org/conservation-agriculture/in-practice/soil-organic-cover/en/",
+    "keywords": "cover crops residues organic carbon soil moisture biodiversity erosion"
+  },
+  {
+    "title": "Soil Organic Matter",
+    "organization": "FAO",
+    "claim": "Soil organic matter influences structure, porosity, water infiltration, moisture holding capacity, biological activity and nutrient availability.",
+    "mechanism": "Organic matter links physical, chemical and biological soil processes.",
+    "metrics": [
+      "soil organic carbon",
+      "soil moisture",
+      "infiltration",
+      "biodiversity"
+    ],
+    "source_url": "https://www.fao.org/4/a0100e/a0100e02.htm",
+    "keywords": "organic matter soil carbon water infiltration microbes nutrients"
+  },
+  {
+    "title": "Agroforestry",
+    "organization": "FAO",
+    "claim": "Agroforestry integrates trees with crops or livestock and can support soil fertility, water regulation, biodiversity and landscape resilience.",
+    "mechanism": "Multiple vegetation layers create habitat and complementary resource use while adding biomass.",
+    "metrics": [
+      "biodiversity",
+      "habitat diversity",
+      "soil organic carbon",
+      "water regulation"
+    ],
+    "source_url": "https://www.fao.org/americas/priorities/agricultura-sostenible/agrofesteria/en",
+    "keywords": "agroforestry trees crops habitat biodiversity carbon drought water"
+  },
+  {
+    "title": "Biodiversity and Ecosystem Services",
+    "organization": "FAO",
+    "claim": "Biological diversity supports decomposition, nutrient cycling, soil structure and pest regulation; rotations, mixtures and agroforestry can increase ecological diversity.",
+    "mechanism": "More diverse biological communities provide a wider set of ecosystem functions.",
+    "metrics": [
+      "species richness",
+      "habitat diversity",
+      "soil fertility",
+      "nutrient cycling"
+    ],
+    "source_url": "https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/biodiversity-and-ecosystem-services/what1/en/",
+    "keywords": "species richness habitat diversity soil biodiversity crop rotation intercropping"
+  },
+  {
+    "title": "Climate Change and Land",
+    "organization": "IPCC",
+    "claim": "Climate change, land use, biodiversity and water processes are interconnected and land management can influence multiple environmental outcomes.",
+    "mechanism": "Climate and land-management decisions interact through water, ecosystem and carbon processes.",
+    "metrics": [
+      "temperature",
+      "rainfall",
+      "water availability",
+      "biodiversity",
+      "land use"
+    ],
+    "source_url": "https://www.ipcc.ch/srccl/",
+    "keywords": "climate land water biodiversity drought rainfall temperature"
+  },
+  {
+    "title": "Land Degradation and Restoration",
+    "organization": "IPBES",
+    "claim": "Land degradation and restoration require integrated assessment of ecological processes and biodiversity.",
+    "mechanism": "Land condition, biodiversity and ecosystem functions are coupled.",
+    "metrics": [
+      "land degradation",
+      "biodiversity",
+      "habitat",
+      "ecosystem function"
+    ],
+    "source_url": "https://www.ipbes.net/zh/ldr",
+    "keywords": "land degradation restoration biodiversity habitat ecosystem"
+  }
+]
