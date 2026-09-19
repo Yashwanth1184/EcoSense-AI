@@ -204,7 +204,7 @@ function App() {
 
         const response =
           await fetch(
-            "http://127.0.0.1:8000/api/analyze",
+            "https://ecosense-ai-backend-7o1i.onrender.com/api/analyze",
             {
 
               method: "POST",
@@ -434,7 +434,7 @@ function App() {
 
         const response =
           await fetch(
-            "http://127.0.0.1:8000/api/chat",
+            "https://ecosense-ai-backend-7o1i.onrender.com/api/chat",
             {
 
               method: "POST",
